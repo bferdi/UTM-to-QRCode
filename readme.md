@@ -26,8 +26,8 @@ The UTM to QR Code Generator is a web-based tool that allows you to generate QR 
 
 To run the UTM to QR Code Generator locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/utm-to-qrcode-generator.git`
-2. Navigate to the project directory: `cd utm-to-qrcode-generator`
+1. Clone the repository: `git clone https://github.com/bferdi/UTM-to-QRCode.git`
+2. Navigate to the project directory: `cd UTM-to-QRCode`
 3. Open the `index.html` file in your web browser.
 
 ## Contributing
