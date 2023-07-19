@@ -42,7 +42,6 @@ The UTM to QR Code Generator is released under the [MIT License](LICENSE).
 
 The UTM to QR Code Generator utilizes the [qrcode.js](https://github.com/davidshimjs/qrcodejs) library by [David Shim](https://github.com/davidshimjs) for generating QR codes. Special thanks to the qrcode.js library for their contribution.
 
-The UTM to QR Code Generator was developed by [Your Name](https://github.com/your-username). Special thanks to the following contributors:
-
+The UTM to QR Code Generator was developed by [Ben Ferdinands](https://github.com/bferdi). 
 - [Contributor Name](https://github.com/contributor-username) - Implemented feature XYZ.
 - [Contributor Name](https://github.com/contributor-username) - Fixed issue ABC.
